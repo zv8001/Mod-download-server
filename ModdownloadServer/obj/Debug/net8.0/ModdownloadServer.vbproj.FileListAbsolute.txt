@@ -1,0 +1,14 @@
+C:\Users\denve\source\repos\ModdownloadServer\ModdownloadServer\bin\Debug\net8.0\ModdownloadServer.exe
+C:\Users\denve\source\repos\ModdownloadServer\ModdownloadServer\bin\Debug\net8.0\ModdownloadServer.deps.json
+C:\Users\denve\source\repos\ModdownloadServer\ModdownloadServer\bin\Debug\net8.0\ModdownloadServer.runtimeconfig.json
+C:\Users\denve\source\repos\ModdownloadServer\ModdownloadServer\bin\Debug\net8.0\ModdownloadServer.dll
+C:\Users\denve\source\repos\ModdownloadServer\ModdownloadServer\bin\Debug\net8.0\ModdownloadServer.pdb
+C:\Users\denve\source\repos\ModdownloadServer\ModdownloadServer\obj\Debug\net8.0\ModdownloadServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denve\source\repos\ModdownloadServer\ModdownloadServer\obj\Debug\net8.0\ModdownloadServer.AssemblyInfoInputs.cache
+C:\Users\denve\source\repos\ModdownloadServer\ModdownloadServer\obj\Debug\net8.0\ModdownloadServer.AssemblyInfo.vb
+C:\Users\denve\source\repos\ModdownloadServer\ModdownloadServer\obj\Debug\net8.0\ModdownloadServer.vbproj.CoreCompileInputs.cache
+C:\Users\denve\source\repos\ModdownloadServer\ModdownloadServer\obj\Debug\net8.0\ModdownloadServer.dll
+C:\Users\denve\source\repos\ModdownloadServer\ModdownloadServer\obj\Debug\net8.0\refint\ModdownloadServer.dll
+C:\Users\denve\source\repos\ModdownloadServer\ModdownloadServer\obj\Debug\net8.0\ModdownloadServer.pdb
+C:\Users\denve\source\repos\ModdownloadServer\ModdownloadServer\obj\Debug\net8.0\ModdownloadServer.genruntimeconfig.cache
+C:\Users\denve\source\repos\ModdownloadServer\ModdownloadServer\obj\Debug\net8.0\ref\ModdownloadServer.dll
